@@ -1,4 +1,5 @@
 ## Hi there 👋
+ [![HitCount](https://hits.dwyl.com/Janith303/Janith303.svg?style=flat-square)](http://hits.dwyl.com/Janith303/Janith303)
 
 <!--
 **Janith303/Janith303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
