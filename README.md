@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![HitCount](https://hits.dwyl.com/Janith303/Janith303.svg?style=flat-square&show=unique&color=blue)](http://hits.dwyl.com/Janith303/Janith303)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Janith303.Janith303&color=blue)
 
 <!--
 **Janith303/Janith303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
